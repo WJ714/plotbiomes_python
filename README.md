@@ -22,7 +22,7 @@ python3 -m pip install -e packages/plotbiomes_python
 Optional extras:
 
 ```bash
-python3 -m pip install -e "packages/plotbiomes_python[dataframe,map]"
+python3 -m pip install -e "plotbiomes_python[dataframe,map]"
 ```
 
 ## Quick Start
