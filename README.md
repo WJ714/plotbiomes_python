@@ -16,13 +16,19 @@ Included features:
 From this repository:
 
 ```bash
-python3 -m pip install -e plotbiomes_python
+python3 -m pip install -e .
 ```
 
 Optional extras:
 
 ```bash
-python3 -m pip install -e "plotbiomes_python[dataframe,map]"
+python3 -m pip install -e ".[dataframe,map]"
+```
+
+From GitHub:
+
+```bash
+python3 -m pip install git+https://github.com/WJ714/plotbiomes-python.git
 ```
 
 ## Quick Start
@@ -79,6 +85,14 @@ fmap = plotbiomes.map_outliers(
 )
 fmap.save("whittaker_outliers.html")
 ```
+
+## Citation
+
+If you use this Python package, please cite it as:
+
+Zhang, W. (2026). `plotbiomes-python`: Python plotting tools for Whittaker
+biome climate-space polygons (v0.1.0). GitHub.
+https://github.com/WJ714/plotbiomes-python
 
 ## Acknowledgement
 

@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+title: "plotbiomes-python: Python plotting tools for Whittaker biome climate-space polygons"
+version: "0.1.0"
+date-released: "2026-05-24"
+type: software
+authors:
+  - family-names: "Zhang"
+    given-names: "Weijie"
+repository-code: "https://github.com/WJ714/plotbiomes-python"
+url: "https://github.com/WJ714/plotbiomes-python"
+license: "MIT"
+abstract: "A Python package for plotting Whittaker biome climate-space polygons, classifying temperature-precipitation points, and identifying outliers."
