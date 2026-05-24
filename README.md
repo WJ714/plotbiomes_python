@@ -16,7 +16,7 @@ Included features:
 From this repository:
 
 ```bash
-python3 -m pip install -e packages/plotbiomes_python
+python3 -m pip install -e plotbiomes_python
 ```
 
 Optional extras:
