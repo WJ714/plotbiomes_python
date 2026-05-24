@@ -1,0 +1,3 @@
+include README.md
+recursive-include src/plotbiomes/data *.csv *.plotbiomes
+recursive-exclude * __pycache__ *.py[co]
