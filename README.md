@@ -2,6 +2,8 @@
 
 Python plotting tools for Whittaker biome climate-space polygons.
 
+![Whittaker biome plot](figures/whittaker_biomes_python.png)
+
 Included features:
 
 - bundled Whittaker biome vertices
